@@ -17,7 +17,7 @@ Analyse pbp data from R package nflfastR
 5. Model Evaluation and Prediction
 <br>Predict and compare model accuracy with cutoffs
 
-6.Exploratory Data Analysis and Visualization
+6. Exploratory Data Analysis and Visualization
 <br>Analyze yards to go, play type & no of attempts  success rates
 
 7. Visualize success rates with bar charts
