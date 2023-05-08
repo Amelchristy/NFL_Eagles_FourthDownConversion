@@ -1,5 +1,4 @@
-#Please dont Mind the language, it's a philly thing
-#effin load all libraries needed
+#Load all libraries needed
 library(tidyverse)
 library(ggimage)
 library(gt)
@@ -235,6 +234,7 @@ avg_yardline_100
 
 pbp_2022_23 <-load_pbp(2023)
 
+#Trying to experiment adding weather and find the columns that contains "time"
 colnames(eagles)
 time_columns <- grep("time", colnames(eagles), value = TRUE)
 time_columns
